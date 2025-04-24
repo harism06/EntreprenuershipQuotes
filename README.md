@@ -1,4 +1,4 @@
-# Entreprenuership Quotes
+# Quotes
 
 "Entrepreneurship is not about starting a new company, it is about taking significant risk in order to build something you want to see in the world." ~Jack Dorsey
 (This is a quote by Jack Dorsey that I love about true entrepreneurship.)
