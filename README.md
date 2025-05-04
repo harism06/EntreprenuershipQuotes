@@ -1,6 +1,6 @@
 # Quotes
 
-"My observation is that there are talented people everywhere. So, bringing Silicon Valley to other places in the world is mostly a matter of culture. So there isn't a lack of talented people in other places in the world. So it's more the cultural aspects, like are people willing to take risks? is there a personal network of people you can look up to? it is a little bit difficult if you have no one to aspire to. you need role models and mentors" (~Jawed Karim, YouTube)[https://youtu.be/IY8xMIU2B4c?si=QoKZiR4qID3pVQAV&t=183]
+"My observation is that there are talented people everywhere. So, bringing Silicon Valley to other places in the world is mostly a matter of culture. So there isn't a lack of talented people in other places in the world. So it's more the cultural aspects, like are people willing to take risks? is there a personal network of people you can look up to? it is a little bit difficult if you have no one to aspire to. you need role models and mentors" [~Jawed Karim, YouTube](https://youtu.be/IY8xMIU2B4c?si=QoKZiR4qID3pVQAV&t=183)
 
 "Entrepreneurship is not about starting a new company, it is about taking significant risk in order to build something you want to see in the world." ~Jack Dorsey, Twitter & Square
 (This is a quote by Jack Dorsey that I love about true entrepreneurship.)
