@@ -9,4 +9,4 @@
 
 "Y Combinator found out there was a huge amount of value to unlock by finding unknown people that are really talented but don't have a network and giving them resources." ~Sam Altman, OpenAI & YC
 
-"All men are created equal" ~Thomas Jefferson, USA
+"All men are created equal" [~Thomas Jefferson, USA](https://www.youtube.com/watch?v=DOiDUbaBL9E&t=184s)
